@@ -1,0 +1,616 @@
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE Family 2
+1 DATE 4 NOV 2022
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME Svetlana.mineewa2003@yandex.ru
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Светлана /Минеева/
+2 GIVN Светлана
+2 SURN Минеева
+2 _MARNM Минеева
+1 SEX F
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Алексей /Минеев/
+2 GIVN Алексей
+2 SURN Минеев
+2 _MARNM Минеев
+1 SEX M
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I3@ INDI
+1 NAME Ольга /Кустова/
+2 GIVN Ольга
+2 SURN Кустова
+2 _MARNM Минеева
+1 SEX F
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I4@ INDI
+1 NAME Владимир /Минеев/
+2 GIVN Владимир
+2 SURN Минеев
+2 _MARNM Минеев
+1 SEX M
+1 FAMS @F2@
+1 FAMC @F4@
+0 @I5@ INDI
+1 NAME Татьяна /Тихонова/
+2 GIVN Татьяна
+2 SURN Тихонова
+2 _MARNM Минеева
+1 SEX F
+1 FAMS @F2@
+1 FAMC @F5@
+0 @I6@ INDI
+1 NAME Валентин /Кустов/
+2 GIVN Валентин
+2 SURN Кустов
+2 _MARNM Кустов
+1 SEX M
+1 DEAT Y
+1 FAMS @F3@
+1 FAMC @F6@
+0 @I7@ INDI
+1 NAME Валентина /Куликова/
+2 GIVN Валентина
+2 SURN Куликова
+2 _MARNM Кустова
+1 SEX F
+1 FAMS @F3@
+1 FAMC @F7@
+0 @I8@ INDI
+1 NAME Дмитрий /Кустов/
+2 GIVN Дмитрий
+2 SURN Кустов
+2 _MARNM Кустов
+1 SEX M
+1 FAMS @F8@
+1 FAMC @F3@
+0 @I9@ INDI
+1 NAME Юлия /Минеева/
+2 GIVN Юлия
+2 SURN Минеева
+2 _MARNM Минеева
+1 SEX F
+1 DEAT Y
+1 FAMC @F2@
+0 @I10@ INDI
+1 NAME Ирина /Кустова/
+2 GIVN Ирина
+2 SURN Кустова
+2 _MARNM Кустова
+1 SEX F
+1 FAMS @F8@
+0 @I11@ INDI
+1 NAME Артём /Кустов/
+2 GIVN Артём
+2 SURN Кустов
+2 _MARNM Кустов
+1 SEX M
+1 FAMC @F8@
+0 @I12@ INDI
+1 NAME Екатерина /Кустова/
+2 GIVN Екатерина
+2 SURN Кустова
+2 _MARNM Кустова
+1 SEX F
+1 FAMC @F8@
+0 @I13@ INDI
+1 NAME Александр /Минеев/
+2 GIVN Александр
+2 SURN Минеев
+2 _MARNM Минеев
+1 SEX M
+1 DEAT Y
+1 FAMS @F4@
+1 FAMC @F9@
+0 @I14@ INDI
+1 NAME Наталья /Фролова/
+2 GIVN Наталья
+2 SURN Фролова
+2 _MARNM Минеева
+1 SEX F
+1 DEAT Y
+1 FAMS @F4@
+1 FAMC @F10@
+0 @I15@ INDI
+1 NAME Виктор /Тихонов/
+2 GIVN Виктор
+2 SURN Тихонов
+2 _MARNM Тихонов
+1 SEX M
+1 DEAT Y
+1 FAMS @F5@
+1 FAMC @F11@
+0 @I16@ INDI
+1 NAME Анастасия /Макарова/
+2 GIVN Анастасия
+2 SURN Макарова
+2 _MARNM Тихонова
+1 SEX F
+1 DEAT Y
+1 FAMS @F5@
+1 FAMC @F12@
+0 @I17@ INDI
+1 NAME Григорий /Кустов/
+2 GIVN Григорий
+2 SURN Кустов
+2 _MARNM Кустов
+1 SEX M
+1 DEAT Y
+1 FAMS @F6@
+1 FAMC @F13@
+0 @I18@ INDI
+1 NAME Мария /Свердлова/
+2 GIVN Мария
+2 SURN Свердлова
+2 _MARNM Кустова
+1 SEX F
+1 DEAT Y
+1 FAMS @F6@
+1 FAMC @F14@
+0 @I19@ INDI
+1 NAME Павел /Куликов/
+2 GIVN Павел
+2 SURN Куликов
+2 _MARNM Куликов
+1 SEX M
+1 DEAT Y
+1 FAMS @F7@
+1 FAMC @F15@
+0 @I20@ INDI
+1 NAME Анастасия /Кондратьева/
+2 GIVN Анастасия
+2 SURN Кондратьева
+2 _MARNM Куликова
+1 SEX F
+1 DEAT Y
+1 FAMS @F7@
+1 FAMC @F16@
+0 @I21@ INDI
+1 NAME Валентина /Тихонова/
+2 GIVN Валентина
+2 SURN Тихонова
+2 _MARNM Тихонова
+1 SEX F
+1 FAMS @F17@
+1 FAMC @F5@
+0 @I22@ INDI
+1 NAME Жанна /Тихонова/
+2 GIVN Жанна
+2 SURN Тихонова
+2 _MARNM Тихонова
+1 SEX F
+1 FAMC @F17@
+0 @I23@ INDI
+1 NAME Марина /Куликова/
+2 GIVN Марина
+2 SURN Куликова
+2 _MARNM Куликова
+1 SEX F
+1 FAMS @F19@
+1 FAMC @F7@
+0 @I24@ INDI
+1 NAME Мария /Куликова/
+2 GIVN Мария
+2 SURN Куликова
+2 _MARNM Нестерова
+1 SEX F
+1 FAMS @F21@
+1 FAMC @F7@
+0 @I25@ INDI
+1 NAME Дарья /Куликова/
+2 GIVN Дарья
+2 SURN Куликова
+2 _MARNM Смирнова
+1 SEX F
+1 FAMS @F18@
+1 FAMC @F7@
+0 @I26@ INDI
+1 NAME Влад /Куликов/
+2 GIVN Влад
+2 SURN Куликов
+2 _MARNM Куликов
+1 SEX M
+1 FAMC @F19@
+0 @I27@ INDI
+1 NAME Сергей /Нестеров/
+2 GIVN Сергей
+2 SURN Нестеров
+2 _MARNM Нестеров
+1 SEX M
+1 FAMS @F20@
+1 FAMC @F21@
+0 @I28@ INDI
+1 NAME Владимир /Нестеров/
+2 GIVN Владимир
+2 SURN Нестеров
+2 _MARNM Нестеров
+1 SEX M
+1 FAMS @F21@
+0 @I29@ INDI
+1 NAME Кристина /Нестерова/
+2 GIVN Кристина
+2 SURN Нестерова
+2 _MARNM Соколова
+1 SEX F
+1 FAMS @F22@
+1 FAMC @F21@
+0 @I30@ INDI
+1 NAME Андрей /Соколов/
+2 GIVN Андрей
+2 SURN Соколов
+2 _MARNM Соколов
+1 SEX M
+1 FAMS @F22@
+0 @I31@ INDI
+1 NAME Дарья /Соколова/
+2 GIVN Дарья
+2 SURN Соколова
+2 _MARNM Соколова
+1 SEX F
+1 FAMC @F22@
+0 @I32@ INDI
+1 NAME Влад /Смирнов/
+2 GIVN Влад
+2 SURN Смирнов
+2 _MARNM Смирнов
+1 SEX M
+1 FAMS @F18@
+0 @I33@ INDI
+1 NAME Светлана /Смирнова/
+2 GIVN Светлана
+2 SURN Смирнова
+2 _MARNM Горюнова
+1 SEX F
+1 FAMS @F23@
+1 FAMC @F18@
+0 @I34@ INDI
+1 NAME Денис /Горюнов/
+2 GIVN Денис
+2 SURN Горюнов
+2 _MARNM Горюнов
+1 SEX M
+1 FAMS @F23@
+0 @I35@ INDI
+1 NAME Святослав /Горюнов/
+2 GIVN Святослав
+2 SURN Горюнов
+2 _MARNM Горюнов
+1 SEX M
+1 FAMC @F23@
+0 @I36@ INDI
+1 NAME София /Нестерова/
+2 GIVN София
+2 SURN Нестерова
+2 _MARNM Нестерова
+1 SEX F
+1 FAMS @F20@
+0 @I37@ INDI
+1 NAME Александра /Нестерова/
+2 GIVN Александра
+2 SURN Нестерова
+2 _MARNM Нестерова
+1 SEX F
+1 FAMC @F20@
+0 @I38@ INDI
+1 NAME Даниил /Нестеров/
+2 GIVN Даниил
+2 SURN Нестеров
+2 _MARNM Нестеров
+1 SEX M
+1 FAMC @F20@
+0 @I39@ INDI
+1 NAME Арина /Нестерова/
+2 GIVN Арина
+2 SURN Нестерова
+2 _MARNM Нестерова
+1 SEX F
+1 FAMC @F20@
+0 @I40@ INDI
+1 NAME Михаил /Минеев/
+2 GIVN Михаил
+2 SURN Минеев
+2 _MARNM Минеев
+1 SEX M
+1 DEAT Y
+1 FAMS @F9@
+0 @I41@ INDI
+1 NAME Клара /Минеева/
+2 GIVN Клара
+2 SURN Минеева
+2 _MARNM Минеева
+1 SEX F
+1 DEAT Y
+1 FAMS @F9@
+0 @I42@ INDI
+1 NAME Сергей /Фролов/
+2 GIVN Сергей
+2 SURN Фролов
+2 _MARNM Фролов
+1 SEX M
+1 DEAT Y
+1 FAMS @F10@
+0 @I43@ INDI
+1 NAME Елена /Фролова/
+2 GIVN Елена
+2 SURN Фролова
+2 _MARNM Фролова
+1 SEX F
+1 DEAT Y
+1 FAMS @F10@
+0 @I44@ INDI
+1 NAME Виктор /Тихонов/
+2 GIVN Виктор
+2 SURN Тихонов
+2 _MARNM Тихонов
+1 SEX M
+1 DEAT Y
+1 FAMS @F11@
+0 @I45@ INDI
+1 NAME Ольга /Тихонова/
+2 GIVN Ольга
+2 SURN Тихонова
+2 _MARNM Тихонова
+1 SEX F
+1 DEAT Y
+1 FAMS @F11@
+0 @I46@ INDI
+1 NAME Анатолий /Макаров/
+2 GIVN Анатолий
+2 SURN Макаров
+2 _MARNM Макаров
+1 SEX M
+1 DEAT Y
+1 FAMS @F12@
+0 @I47@ INDI
+1 NAME Анна /Макарова/
+2 GIVN Анна
+2 SURN Макарова
+2 _MARNM Макарова
+1 SEX F
+1 DEAT Y
+1 FAMS @F12@
+0 @I48@ INDI
+1 NAME Михаил /Кустов/
+2 GIVN Михаил
+2 SURN Кустов
+2 _MARNM Кустов
+1 SEX M
+1 DEAT Y
+1 FAMS @F13@
+0 @I49@ INDI
+1 NAME Елена /Кустова/
+2 GIVN Елена
+2 SURN Кустова
+2 _MARNM Кустова
+1 SEX F
+1 DEAT Y
+1 FAMS @F13@
+0 @I50@ INDI
+1 NAME Леонид /Свердлов/
+2 GIVN Леонид
+2 SURN Свердлов
+2 _MARNM Свердлов
+1 SEX M
+1 DEAT Y
+1 FAMS @F14@
+0 @I51@ INDI
+1 NAME Варвара /Свердлова/
+2 GIVN Варвара
+2 SURN Свердлова
+2 _MARNM Свердлова
+1 SEX F
+1 DEAT Y
+1 FAMS @F14@
+0 @I52@ INDI
+1 NAME Валентин /Куликов/
+2 GIVN Валентин
+2 SURN Куликов
+2 _MARNM Куликов
+1 SEX M
+1 DEAT Y
+1 FAMS @F15@
+0 @I53@ INDI
+1 NAME Дарья /Куликова/
+2 GIVN Дарья
+2 SURN Куликова
+2 _MARNM Куликова
+1 SEX F
+1 DEAT Y
+1 FAMS @F15@
+0 @I54@ INDI
+1 NAME Роман /Кондратьев/
+2 GIVN Роман
+2 SURN Кондратьев
+2 _MARNM Кондратьев
+1 SEX M
+1 DEAT Y
+1 FAMS @F16@
+0 @I55@ INDI
+1 NAME Елизавета /Кондратьева/
+2 GIVN Елизавета
+2 SURN Кондратьева
+2 _MARNM Кондратьева
+1 SEX F
+1 DEAT Y
+1 FAMS @F16@
+0 @I56@ INDI
+1 NAME Егор /Минеев/
+2 GIVN Егор
+2 SURN Минеев
+2 _MARNM Минеев
+1 SEX M
+1 DEAT Y
+1 FAMC @F9@
+0 @I57@ INDI
+1 NAME Анастасия /Куликова/
+2 GIVN Анастасия
+2 SURN Куликова
+2 _MARNM Куликова
+1 SEX F
+1 DEAT Y
+1 FAMC @F15@
+0 @I58@ INDI
+1 NAME Зинаида /Куликова/
+2 GIVN Зинаида
+2 SURN Куликова
+2 _MARNM Куликова
+1 SEX F
+1 DEAT Y
+1 FAMC @F15@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I2@
+1 CHIL @I9@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I3@
+1 CHIL @I8@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F4@ FAM
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I4@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F5@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+1 CHIL @I5@
+1 CHIL @I21@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F6@ FAM
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I6@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F7@ FAM
+1 HUSB @I19@
+1 WIFE @I20@
+1 CHIL @I7@
+1 CHIL @I23@
+1 CHIL @I24@
+1 CHIL @I25@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F8@ FAM
+1 HUSB @I8@
+1 WIFE @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F9@ FAM
+1 HUSB @I40@
+1 WIFE @I41@
+1 CHIL @I13@
+1 CHIL @I56@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F10@ FAM
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I14@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F11@ FAM
+1 HUSB @I44@
+1 WIFE @I45@
+1 CHIL @I15@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F12@ FAM
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I16@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F13@ FAM
+1 HUSB @I48@
+1 WIFE @I49@
+1 CHIL @I17@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F14@ FAM
+1 HUSB @I50@
+1 WIFE @I51@
+1 CHIL @I18@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F15@ FAM
+1 HUSB @I52@
+1 WIFE @I53@
+1 CHIL @I19@
+1 CHIL @I57@
+1 CHIL @I58@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F16@ FAM
+1 HUSB @I54@
+1 WIFE @I55@
+1 CHIL @I20@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F17@ FAM
+1 WIFE @I21@
+1 CHIL @I22@
+0 @F19@ FAM
+1 WIFE @I23@
+1 CHIL @I26@
+0 @F18@ FAM
+1 HUSB @I32@
+1 WIFE @I25@
+1 CHIL @I33@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F20@ FAM
+1 HUSB @I27@
+1 WIFE @I36@
+1 CHIL @I37@
+1 CHIL @I38@
+1 CHIL @I39@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F21@ FAM
+1 HUSB @I28@
+1 WIFE @I24@
+1 CHIL @I27@
+1 CHIL @I29@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F22@ FAM
+1 HUSB @I30@
+1 WIFE @I29@
+1 CHIL @I31@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F23@ FAM
+1 HUSB @I34@
+1 WIFE @I33@
+1 CHIL @I35@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 TRLR
