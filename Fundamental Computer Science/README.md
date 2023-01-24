@@ -21,9 +21,9 @@
 
 i0 = -1, j0 = -1, l0 = -9
 
-ik+1 = max (jk-k, lk-k) mod 30 + max (ik+lk, jk+k) mod 20
+ik+1 = max(jk-k, lk-k) mod 30 + max(ik+lk, jk+k) mod 20
 
-jk+1 = (|ik-lk| * sign (jk+k) + |ik-k| * (jk+k)) mod 20
+jk+1 = (|ik-lk| * sign(jk+k) + |ik-k| * (jk+k)) mod 20
 
 lk+1 = (ik+k) * (jk-k) * (lk+k) mod 25
 
