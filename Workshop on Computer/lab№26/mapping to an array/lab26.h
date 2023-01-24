@@ -1,11 +1,14 @@
 #ifndef LAB26_H
 #define LAB26_H
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 #define N 100
 #define Tvalue int
 
-struct Stack{int first; Tvalue body[N];};
+struct Stack {
+  int first; 
+  Tvalue body[N];
+};
 
 void Init(Stack &S);
 int Empty(Stack S);
