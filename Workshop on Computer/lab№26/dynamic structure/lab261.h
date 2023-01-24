@@ -5,8 +5,15 @@
 #define N 100
 #define Tvalue int
 
-struct El_St{ Tvalue V; El_St *next;};
-struct Stack{ El_St *first; int size;};
+struct El_St { 
+  Tvalue V; 
+  El_St *next;
+};
+
+struct Stack { 
+  El_St *first; 
+  int size;
+};
 
 void Init(Stack &S);
 int Empty(Stack S);
